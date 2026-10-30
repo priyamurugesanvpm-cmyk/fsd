@@ -26,7 +26,6 @@ class PurpleTasksApp extends StatelessWidget {
     );
   }
 }
-
 // LOGIN PAGE
 
 class LoginPage extends StatefulWidget {
